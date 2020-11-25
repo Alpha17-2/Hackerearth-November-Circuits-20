@@ -82,7 +82,7 @@ void solve()
        }
        int temp=n-3+1;
        cout<<temp+1<<" "<<temp+2<<" "<<temp<<"\n";
-      cout<<ans1<<"\n";
+       cout<<ans1<<"\n";
        cout<<s<<"\n";  
    }
    
