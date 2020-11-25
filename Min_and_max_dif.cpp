@@ -22,6 +22,12 @@ void solve()
 {
    lli n;
    cin>>n;
+   if(n==1)
+   {
+       for(int i=1;i<=2;i++)
+       cout<<"-1\n";
+       return;
+   }
    if(even(n))
    {
        // even number found
